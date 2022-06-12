@@ -1,0 +1,1 @@
+# GPU-details-using-python
